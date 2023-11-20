@@ -16,6 +16,7 @@ body {
   box-sizing: border-box;
   background: #ECE1E5;
   font-family: serif;
+
 }
 
 img {
@@ -438,6 +439,10 @@ dl.menu dd{
 
 
 /* access */
+
+body {
+  overflow: hidden;
+}
 
 .access h2 {
   font-size: 1.2em;
