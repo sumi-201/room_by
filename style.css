@@ -440,9 +440,6 @@ dl.menu dd{
 
 /* access */
 
-body {
-  overflow: hidden;
-}
 
 .access h2 {
   font-size: 1.2em;
